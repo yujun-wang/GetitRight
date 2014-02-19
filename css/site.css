@@ -188,6 +188,12 @@ i.service-icon {
   padding: 50px 0;
 }
 
+.call-to-foot {
+  color: #ffffff;
+  background: #080808;
+  padding: 50px 0;
+}
+
 .call-to-action .btn {
   margin: 10px;
 }
